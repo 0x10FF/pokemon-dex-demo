@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">kotlin</string>
+    <string name="main_title">Gotta catch \'em all</string>
+    <string name="help_menu_title">Help</string>
+
+    <string name="pokemon_details_id_template">Id: %1$s</string>
+    <string name="pokemon_details_height_template">Height: %1$s</string>
+    <string name="pokemon_details_weight_template">Weight: %1$s</string>
+</resources>
