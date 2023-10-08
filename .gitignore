@@ -30,4 +30,7 @@ render.experimental.xml
 google-services.json
 
 # Android Profiling
-*.hprof
+*.hprofgradle/
+gradlew
+gradlew.bat
+gradle/*
